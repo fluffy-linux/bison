@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/sw/bash/bin/bash
 
 @relocatable_sh@
 if test "@RELOCATABLE@" = yes; then
