@@ -1,0 +1,1 @@
+../translationproject/PO-files/de/gnulib-4.0.0.2567.de.po

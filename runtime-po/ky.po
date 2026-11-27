@@ -1,0 +1,1 @@
+../translationproject/PO-files/ky/bison-runtime-2.3a.ky.po

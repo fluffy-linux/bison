@@ -1,0 +1,1 @@
+../translationproject/PO-files/sq/bison-runtime-2.6.2.sq.po

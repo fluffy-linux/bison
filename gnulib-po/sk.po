@@ -1,0 +1,1 @@
+../translationproject/PO-files/sk/gnulib-4.0.0.2567.sk.po

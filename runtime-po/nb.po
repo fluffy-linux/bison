@@ -1,0 +1,1 @@
+../translationproject/PO-files/nb/bison-runtime-2.1.nb.po

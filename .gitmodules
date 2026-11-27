@@ -4,3 +4,6 @@
 [submodule "submodules/autoconf"]
 	path = submodules/autoconf
 	url = ../autoconf.git
+[submodule "translationproject"]
+	path = translationproject
+	url = ../translationproject.git

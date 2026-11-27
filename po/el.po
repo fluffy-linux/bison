@@ -1,0 +1,1 @@
+../translationproject/PO-files/el/bison-3.6.93.el.po
